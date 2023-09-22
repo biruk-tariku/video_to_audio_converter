@@ -18,4 +18,4 @@ Here's a breakdown of what each part of the code does:
 
 7. `print("END")`: Finally, this line prints "END" to the console to indicate that the script has finished running.
 
-Make sure you have the MoviePy library installed (`pip install moviepy`) and that you have Tkinter available (it's typically included with Python) for the file dialog to work. Also, ensure you have a video file selected when running the script.
+Make sure you have the MoviePy library installed (` pip install moviepy `) and that you have Tkinter available (it's typically included with Python) for the file dialog to work. Also, ensure you have a video file selected when running the script.
