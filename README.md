@@ -2,7 +2,7 @@
 
 a Python script that uses the MoviePy library to extract audio from a video file selected by the user using a file dialog provided by Tkinter. It then saves the extracted audio as an MP3 file named "demo.mp3" and prints "END" to the console. 
 
-Here's a breakdown of what each part of the code does:
+Here's a breakdown of what each part of the code does :
 
 1. `import moviepy.editor`: This imports the `moviepy.editor` module, which is used for video editing tasks.
 
